@@ -107,6 +107,10 @@ Below is the final, consolidated evaluation table:
 | **Literature Awareness & Justification**| ★★                 | ★                   | ★                   | ★                  | ★★★                | ★★★                | ★★★                  | ★★★                   | ★★               | ★★★                 | ★★★★              | **★★★★★**                   |
 | **Overall Coherence & Feasibility**   | ★★                  | ★                   | ★                   | ★                  | ★★★                | ★★★                | ★★★                  | ★★★                   | ★★               | ★★★★                | ★★★★              | **★★★★★**                   |
 
+
+
+![image](https://github.com/user-attachments/assets/cb786ad1-a9c7-40fb-a4ed-9fb551285579)
+
 *Legend:*  
 - **DS1‑off 14b**: deepseek‑r1 offline 14b  
 - **CG4o‑mini**: ChatGPT‑4o mini  
